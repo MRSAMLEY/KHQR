@@ -1,0 +1,5 @@
+#refresh page
+php artisan migrate:fresh --seed
+
+#run page
+php artisan serve
